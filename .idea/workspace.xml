@@ -4,12 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6040dc9-9677-4711-a6d6-94398704fcf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bài tập tạo form bảng cơ bản.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tạo fileco bản bảng color.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đăng ký học viên.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đăng ký học viên.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="822183f6-2944-4439-a2a3-03cce59d9966" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dau ra 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form lấy surver khách hàng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form đăng ký người dùng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nhúng javascript 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nhúng javascript 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tẠO bẢNG cƠ BẢN.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tại thời khóa biểu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tạo bản nâng cao.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tạo bản nâng cao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/đầu ra 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/đầu ra 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/đầu ra 4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tạo form cơ bản.html" beforeDir="false" afterPath="$PROJECT_DIR$/tạo form cơ bản.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đăng ký học viên.html" beforeDir="false" afterPath="$PROJECT_DIR$/đăng ký học viên.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,14 +30,24 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1zAAKuBS5XItxZ8fFuBSbOwJkvO" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zClgmomMzkv5Uym2TavYTiF7ag" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,31 +57,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Admind\Desktop\CVcongviec" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c6040dc9-9677-4711-a6d6-94398704fcf4" name="Changes" comment="" />
-      <created>1633580458154</created>
+      <changelist id="822183f6-2944-4439-a2a3-03cce59d9966" name="Changes" comment="" />
+      <created>1633660063723</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1633580458154</updated>
-      <workItem from="1633580459267" duration="2743000" />
-      <workItem from="1633583358415" duration="7367000" />
-      <workItem from="1633592215370" duration="3773000" />
+      <updated>1633660063723</updated>
+      <workItem from="1633660064832" duration="13132000" />
     </task>
     <servers />
   </component>
@@ -78,6 +88,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
