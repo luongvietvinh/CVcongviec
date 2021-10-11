@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="822183f6-2944-4439-a2a3-03cce59d9966" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dau ra 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form lấy surver khách hàng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form đăng ký người dùng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nhúng javascript 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nhúng javascript 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tẠO bẢNG cƠ BẢN.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tại thời khóa biểu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tạo bản nâng cao.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tạo bản nâng cao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đầu ra 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đầu ra 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đầu ra 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LỊCH.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tạo form cơ bản.html" beforeDir="false" afterPath="$PROJECT_DIR$/tạo form cơ bản.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/đăng ký học viên.html" beforeDir="false" afterPath="$PROJECT_DIR$/đăng ký học viên.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tại thời khóa biểu.html" beforeDir="false" afterPath="$PROJECT_DIR$/tại thời khóa biểu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +49,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -71,7 +60,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633660063723</updated>
-      <workItem from="1633660064832" duration="13132000" />
+      <workItem from="1633660064832" duration="16198000" />
+      <workItem from="1633747651173" duration="1690000" />
+      <workItem from="1633842242550" duration="3509000" />
     </task>
     <servers />
   </component>
@@ -88,5 +79,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
